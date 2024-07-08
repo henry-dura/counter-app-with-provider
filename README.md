@@ -1,6 +1,6 @@
 # counter_app_with_provider
 
-A new Flutter project.
+A new Flutter project done with provider state management
 
 ## Getting Started
 
